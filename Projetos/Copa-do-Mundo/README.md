@@ -11,11 +11,6 @@ Este projeto é um Dashboard interativo que narra a história completa de todas 
 
 ---
 
-## 🔗 Acesse o Dashboard Online
-
-👉 **[Clique aqui para visualizar o projeto em tela cheia](https://GustavoLuz98.github.io/HTML-Power-BI)**
-
----
 
 ## 🖼️ Visão Geral
 

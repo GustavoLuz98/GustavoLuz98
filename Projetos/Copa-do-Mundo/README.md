@@ -38,25 +38,6 @@ O objetivo foi fugir do padrão "relatório corporativo" e criar uma experiênci
 
 ---
 
-## 📚 Documentação Técnica
-
-Quer ver o código por trás da mágica?
-Documentei as principais medidas DAX e a lógica HTML utilizada neste repositório.
-
-📄 **[Acesse a Documentação Técnica das Medidas (DAX + HTML)](./DOCUMENTACAO_DAX.md)**
-
----
-
-## 🚀 Como Executar Localmente
-
-Este repositório contém a versão Web (Embed) do relatório.
-
-1.  Clone este repositório.
-2.  Abra o arquivo `index.html` no seu navegador.
-3.  **Nota:** É necessário conexão com a internet para que o iframe do Power BI carregue os dados do servidor da Microsoft.
-
----
-
 ## 🤝 Autor
 
 **Gustavo Luz** *Data Analyst | Power BI Specialist*
